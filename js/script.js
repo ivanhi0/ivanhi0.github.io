@@ -118,7 +118,6 @@ function initializeVideoBackground() {
     'media/video3.mp4',
     'media/video4.mp4',
     'media/video5.mp4',
-    'media/video6.mp4',
   ];
 
   const videoElement = document.querySelector('.background-video video');
