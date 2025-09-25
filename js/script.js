@@ -113,11 +113,7 @@ function createRandomCircles(containerElement, activeCircles) {
 // Manages video background loading
 function initializeVideoBackground() {
   const videoFiles = [
-    'media/video1.mp4',
-    'media/video2.mp4',
-    'media/video3.mp4',
-    'media/video4.mp4',
-    'media/video5.mp4',
+    'media/video7.mp4',
   ];
 
   const videoElement = document.querySelector('.background-video video');
